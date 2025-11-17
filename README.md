@@ -51,7 +51,7 @@ The dataset is clean, structured, and suitable for classification tasks.
 
 
 
-## * Methodology*
+##  *Methodology*
 
 The entire workflow includes:
 
