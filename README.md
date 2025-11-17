@@ -1,5 +1,5 @@
 
-#  Diabetes Prediction Using Machine Learning
+#  Multi-Model Machine Learning Pipeline for Type 2 Diabetes Risk Stratification
 
 ### Academic Project – Machine Learning / Data Science
 
