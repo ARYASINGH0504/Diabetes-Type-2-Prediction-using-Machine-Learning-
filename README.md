@@ -22,7 +22,7 @@ The work includes:
 
 It demonstrates practical application of ML concepts in a real-world medical prediction problem.
 
----
+
 
 ## *Objectives*
 
@@ -31,7 +31,7 @@ It demonstrates practical application of ML concepts in a real-world medical pre
 * To evaluate model accuracy, precision, recall, and F1-score
 * To build a reusable and easy-to-run ML pipeline
 
----
+
 
 ## *Dataset Description*
 
@@ -49,7 +49,7 @@ The dataset contains the following health-related features:
 
 The dataset is clean, structured, and suitable for classification tasks.
 
----
+
 
 ## * Methodology*
 
@@ -84,7 +84,7 @@ Model performance is measured using:
 * F1 Score
 * Confusion Matrix (visualized)
 
----
+
 
 ## *Results*
 
@@ -93,7 +93,7 @@ Evaluation metrics such as accuracy and F1-score demonstrate the model’s effec
 
 A confusion matrix plot is also generated for better understanding of classification performance.
 
----
+
 
 ## *Technologies Used*
 
@@ -105,7 +105,7 @@ A confusion matrix plot is also generated for better understanding of classifica
 * Seaborn
 * Joblib
 
----
+
 
 ## *How to Run the Project*
 
@@ -127,7 +127,6 @@ bash
 python src/main.py --mode evaluate
 
 
----
 
 ## *Academic Significance*
 
@@ -141,7 +140,7 @@ This project demonstrates:
 
 It is suitable for *college submissions, machine learning courses, mini-projects, and academic presentations*.
 
----
+
 
 ## *Conclusion*
 
