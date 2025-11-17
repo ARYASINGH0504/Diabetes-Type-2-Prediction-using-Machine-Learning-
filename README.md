@@ -5,7 +5,7 @@
 
 This project focuses on building a machine learning-based system to predict whether a person is diabetic or not based on several medical diagnostic measurements. The aim of this academic project is to apply data preprocessing, exploratory data analysis, and classification algorithms to create a reliable prediction model for early identification of diabetes.
 
----
+
 
 ## *Project Overview*
 
