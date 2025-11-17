@@ -60,7 +60,7 @@ The entire workflow includes:
 * Reads the CSV dataset
 * Handles missing and zero values
 
-### * Preprocessing*
+### *Preprocessing*
 
 * Replaces invalid values
 * Splits data into train–test sets
